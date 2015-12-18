@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edfb665-a5c3-4036-8165-2b5b825c1a6a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/CONDOMINUM/FOUR SEASON PK/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/CONDOMINUM/FOUR SEASON PK/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/GOPR1010.MP4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 018.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 019.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 022.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 023.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S.POOLREPAIRS/RESIDENT/28 Gallop/josh ez 024.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="thepoolman.iws" />
@@ -38,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33281735">
-              <caret line="359" column="81" selection-start-line="359" selection-start-column="81" selection-end-line="359" selection-end-column="81" />
+            <state vertical-scroll-proportion="0.39009288">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -186,8 +174,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33281735">
-          <caret line="359" column="81" selection-start-line="359" selection-start-column="81" selection-end-line="359" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.39009288">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
